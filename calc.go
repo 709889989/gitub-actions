@@ -11,5 +11,5 @@ func Mul(a int, b int) int {
 }
 
 func main(){
-    fmt.Println("hello world")
+    fmt.Println("hello")
 }
